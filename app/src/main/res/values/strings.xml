@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movies">Movies</string>
+    <string name="movies_details">Movies Details</string>
+    <string name="reviews">Reviews</string>
+    <string name="trailers">Trailers</string>
+    <string name="favourite">Favourites</string>
+    <string name="connection">You Are Not Connected To the Internet ,Please Check your connection</string>
+    <string name="server">There is problem Please try again Later</string>
+</resources>
